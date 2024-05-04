@@ -1,0 +1,11 @@
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libpowerfmt-8d5bfb4bdb186cda.rmeta: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libpowerfmt-8d5bfb4bdb186cda.rlib: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/powerfmt-8d5bfb4bdb186cda.d: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs:

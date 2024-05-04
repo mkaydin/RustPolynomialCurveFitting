@@ -1,0 +1,11 @@
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libspliny-ca8dd113034891a6.rmeta: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/spline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/splines.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/plot.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/../README.md
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libspliny-ca8dd113034891a6.rlib: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/spline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/splines.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/plot.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/../README.md
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/spliny-ca8dd113034891a6.d: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/spline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/splines.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/plot.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/../README.md
+
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/lib.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/spline.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/splines.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/plot.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spliny-0.1.0/src/../README.md:

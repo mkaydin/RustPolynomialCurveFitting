@@ -1,0 +1,11 @@
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libcrc32fast-8785c27a11676433.rmeta: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/libcrc32fast-8785c27a11676433.rlib: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/mka/Documents/GitHub/RustPolynomialCurveFitting/polynomial_curve_fitting/target/release/deps/crc32fast-8785c27a11676433.d: /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs:
+/Users/mka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs:
